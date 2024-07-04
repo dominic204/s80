@@ -35,15 +35,12 @@
 }
 
 .album img {
-	height:500px;
+	height:700px;
 	width: 200px;
 }
 
 .album h1 {
-	font-size: 60px;
-}
-.album h3 {
-	font-size: 40px;
+	font-size: 70px;
 }
 
 footer img {
